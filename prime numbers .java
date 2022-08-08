@@ -1,3 +1,6 @@
+//Treasurel Adepa Kissi-Amakye (10969394)
+//I Treasurel Adepa endorse this code.
+
 import java.util.*;
 public class Numbers {
 
