@@ -1,3 +1,6 @@
+//Treasurel Adepa Kissi-Amakye (10969394)
+// I Treasurel endorse this code.
+
 #include <iostream>
 using namespace std;
 
